@@ -14,11 +14,11 @@ Les meilleurs site web sont généralement ceux des manufacturiers directement:
 - [Microsoft](https://www.microsoft.com/en-ca/store/collections/laptops)
 
 Sinon les magasins en ligne:
-- Amazon - Amazon.ca
-- Best Buy - Bestbuy.ca
-- Bureau en Gros - bureauengros.com
-- Costco - costco.ca (Y'a des choses que tu peut acheter en ligne sans un membre Costco)
-- Microsoft (oui, ils ont un magasin en ligne d'ordi) - microsoft.com/en-ca/store/collections/laptops/pc
+- [Amazon](Amazon.ca)
+- [Best Buy](Bestbuy.ca)
+- [Bureau en Gros](bureauengros.com)
+- [Costco](costco.ca) (Y'a des choses qu'on peut acheter en ligne sans une carte de membre Costco)
+- [Microsoft](microsoft.com/en-ca/store/collections/laptops/pc) - Oui, ils ont un magasin en ligne de PC.
 
 ### À Éviter
 - Évite La Source, leurs ordis sont généralement bas de gamme et trop chers.
