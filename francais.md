@@ -40,7 +40,7 @@ Quelquechose avec une résolution de 1920*1080 est très bien! Préférablement,
 ### Carte Vidéo
 Pas besoin de quelquechose de spécial, la chose qui est intégré est bien assez.
 ### Écran Tactile
-La majorité des ordinateurs vont venir avec un écran touchmaintenant, mais ils seront pas nécessairement convertible comme Gen. Laisse pas un écran touch te dissuader d'un ordinateur en particulier.
+La majorité des ordinateurs vont venir avec un écran touchmaintenant, mais ils seront pas nécessairement convertible. Laisse pas un écran touch te dissuader d'un ordinateur en particulier.
 
 ## Recommendations
 
