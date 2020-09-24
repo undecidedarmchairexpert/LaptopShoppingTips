@@ -44,7 +44,7 @@ La majorité des ordinateurs vont venir avec un écran touchmaintenant, mais ils
 
 ## Recommendations
 
-Moi j'ai un Dell XPS (un 15), les ordi avec lesquels j'ai travaillé récemment sont tous des XPS (des 13 et des 15) et j'ai plusieurs amis qui en ont également. J'ai toujours été très content avec la ligne. Le seul détail est que les nouveaux modèles sont rendus tellement minces qu'ils ont seulement des petits ports USB (USB-C), comme ceux sur les nouveaux téléphones android, ce qui veut dire que des adaptateurs sont parfois nécessaire. Les appareils annoncés en 2020 incluent maintenant des écrans plus haut 16:10. Ce qui veut dire que l'écran apparaitera moins mince qu'un écran de télé. Ceci est super pratique pour les applications de productivité puisque ça permet de voir plus de contenu d'une page web, document, code, feuille de calcul, etc. en même temps.
+Le Dell XPS (un 15), les ordi avec lesquels j'ai travaillé récemment sont tous des XPS (des 13 et des 15) et j'ai plusieurs amis qui en ont également. J'ai toujours été très content avec la ligne. Le seul détail est que les nouveaux modèles sont rendus tellement minces qu'ils ont seulement des petits ports USB (USB-C), comme ceux sur les nouveaux téléphones android, ce qui veut dire que des adaptateurs sont parfois nécessaire. Les appareils annoncés en 2020 incluent maintenant des écrans plus haut 16:10. Ce qui veut dire que l'écran apparaitera moins mince qu'un écran de télé. Ceci est super pratique pour les applications de productivité puisque ça permet de voir plus de contenu d'une page web, document, code, feuille de calcul, etc. en même temps.
 
 Microsoft ont maintenant aussi leur propre ligne d'appareils qu'ils produisent eux-mêmes, et cs sont parmis les meilleurs appareils Window. Les nouveaux ordinateurs Surface Laptop 3 de Microsoft sont aussi comparable aux XPS en terme de qualité et sont en général très bons. Ils ont un écran qui a une forme différente (plus carrée) qui est honnêtement même plus practique que les écrans des XPS. Leurs claviers et pad de souris sont une joie à utiliser également.
 
@@ -59,8 +59,6 @@ Si l'ont recheche un laptop plus performant, il y a maintenant des options plus 
 La gamme d'appareils mince Zephyrus d'Asus à été rafraichie de font en comble et contient maintenant les pièces plus performantes de la série 4000 d'AMD et une la nouvelle architecture de carte graphique d'Nvdia.
 
 Ceci combiné fait du Zephyrus G14 (14 po) et G15 (15 po) une valeure magnifique lorsqu'équipé d'un procesur AMD 4800HS et d'une carte graphique GTX 1660ti et 16 Go de mémoire vive. Ce ne sont pas les moins chers, à environ 1600$, mais on en a définitivement pour son argent.
-
-You may be tempted by Dell's XPS 15, which is a fine workstation laptop, but it's thin chassis means it won't cool as well and that it woun't do as well in long running applications like gaming. But it is a perfectly suitable laptop for other workstation purposes.
 
 On peut être tenté par l'XPS 15 pour cette utilité, qui est un laptop professionel formidable. Mais, son chassis ultra-mince le rends plus chaud que la majorité de ses compétiteurs, ce qui affecte ses performances dans des applications soutenues, comme les jeux vidéos. Donc, ce n'est pas idéal pour jouer, mais c'est excellent pour tout autres tâches professionelles.
 
