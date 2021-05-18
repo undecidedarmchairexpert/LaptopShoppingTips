@@ -1,9 +1,11 @@
 # Conseils de Magasinage pour Portables
 ---
 
-`Mis à jour le 27 Mai 2020`
+# SOUS RÉNOVATION
 
-En premier, aller voir les ordinateurs en personne (préférablement en avance) est toujours important pour savoir si y'a des trucs qui gossent sur l'ordi. Genre le placement du bouton de réveil, le clavier, le pad de souris, c'est tout des trucs de préférence personnels qui vont varier d'ordi à ordi.
+`Mis à jour le 16 Mai 2021`
+
+En premier, si possible durant la pandémie, aller voir les ordinateurs en personne (préférablement en avance) est toujours important pour savoir si il y a des éléments dérangeants sur l'ordi. Par exemple, le placement du bouton de réveil, le clavier, le pad de souris, c'est tous des éléments de préférence personnels qui peuvent varier de portable à portable.
 
 ## Où Magaziner
 
@@ -21,28 +23,47 @@ Sinon les magasins en ligne:
 - [Microsoft](microsoft.com/en-ca/store/collections/laptops/pc) - Oui, ils ont un magasin en ligne de PC.
 
 ### À Éviter
-- Évite La Source, leurs ordis sont généralement bas de gamme et trop chers.
-- J'éviterais Walmart également, ça va être un peut comme La Source. (Et les deux ont généralement un mauvais service après vente.)
+
+- La Source, leurs ordis sont généralement bas de gamme et trop chers.
+- Walmart, ça va être un peut comme La Source. (Et les deux ont généralement un mauvais service après vente.)
 
 ## Composantes et spécifications 
 
 ### Processeur
 
-Intel : i5-8* ou plus, donc i7-8* ou i5-9* ou i7-9* ou i5-10* et etc... est tout ce que tu as besoin. Pour toi, un 8 ou un 10 ne feront aucune différence, paye pas plus pour un des plus récents.
+Intel : i5-10*** ou plus, donc i7-10*** ou i5-11*** ou i7-11*** et etc... est tout ce que tu as besoin. En général, un 10*** ou un 11*** ne feront aucune différence, ne paye pas plus pour un des plus récents.
 ou
-AMD : Ryzen 5 3* ou plus, donc Ryzen 5 3500U ou 3550H ou Ryzen 7 3700U et etc... Si ça commence avec 4500, 4550, etc... C'est encore meilleur
+AMD : Ryzen 5 3* ou plus, donc Ryzen 5 4500U ou 4600HS ou Ryzen 7 4700U et etc... Si ça commence avec 5500, 5700, etc... C'est encore meilleur
+
 ### Mémoire Vive
+
 8 Go ou plus est le standard aujourd'hui et ce devrait être suffisant pour le moment.
+
 ### Stockage
+
 Tant que c'est un SSD ça devrait aller. 128 Go est rendu un peu limité, 256 Go devrait être amplement par contre...
+
 ### Écran
-Quelquechose avec une résolution de 1920*1080 est très bien! Préférablement, l'écran serait de type IPS et non VA ou TN (ceci devrait être indiqué sur la page des spécifications), mais IPS est devenu un standard prèsque normal.
+
+Quelquechose avec une résolution de 1920x1080 est très bien. Préférablement, l'écran serait de type IPS et non VA ou TN (ceci devrait être indiqué sur la page des spécifications), mais IPS est devenu le standard.
+
 ### Carte Vidéo
 Pas besoin de quelquechose de spécial, la chose qui est intégré est bien assez.
+
 ### Écran Tactile
-La majorité des ordinateurs vont venir avec un écran touchmaintenant, mais ils seront pas nécessairement convertible. Laisse pas un écran touch te dissuader d'un ordinateur en particulier.
+
+La majorité des ordinateurs vont venir avec un écran tactile maintenant, mais ils seront pas nécessairement convertible. Laisse pas un écran tactile te dissuader d'un ordinateur en particulier.
 
 ## Recommendations
+
+### Pour le meilleur rapport qualité/prix
+
+#### Lenovo Flex 5 (AMD Ryzen 5 4500U)
+
+Ce modèle aparaît fréquamment sur Amazon pour ~850$CAD et cela représente une très bonne valeure dans le marché d'aujourd'hui.
+
+It's by no means the perfect laptop, but it has an ok mix of everything, the screen size it's pretty good, the performance will las you for a few yeaars and it has a pen to use on its touch screen. If you don't want to think too hard about it, and just want a straigh laptop recommendation, pick this option.
+Ce n'est aucunement l'appareil parfait, mais 
 
 Le Dell XPS (un 15), les ordi avec lesquels j'ai travaillé récemment sont tous des XPS (des 13 et des 15) et j'ai plusieurs amis qui en ont également. J'ai toujours été très content avec la ligne. Le seul détail est que les nouveaux modèles sont rendus tellement minces qu'ils ont seulement des petits ports USB (USB-C), comme ceux sur les nouveaux téléphones android, ce qui veut dire que des adaptateurs sont parfois nécessaire. Les appareils annoncés en 2020 incluent maintenant des écrans plus haut 16:10. Ce qui veut dire que l'écran apparaitera moins mince qu'un écran de télé. Ceci est super pratique pour les applications de productivité puisque ça permet de voir plus de contenu d'une page web, document, code, feuille de calcul, etc. en même temps.
 
